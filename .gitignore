@@ -1,5 +1,6 @@
 !**/src/main/**/target/
 !**/src/test/**/target/
+/build
 
 ### IntelliJ IDEA ###
 .idea
