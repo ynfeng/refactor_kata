@@ -1,4 +1,0 @@
-com/github/ynfeng/refactor/change_function_declaration/CircleTest.java
- com.github.ynfeng.refactor.change_function_declaration.CircleTest
-com/github/ynfeng/refactor/change_function_declaration/BookTest.java
- com.github.ynfeng.refactor.change_function_declaration.BookTest
