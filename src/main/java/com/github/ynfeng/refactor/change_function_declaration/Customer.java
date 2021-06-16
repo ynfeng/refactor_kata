@@ -2,6 +2,7 @@ package com.github.ynfeng.refactor.change_function_declaration;
 
 public class Customer {
     private final String name;
+    public Address address;
 
     public Customer(String name) {
         this.name = name;
