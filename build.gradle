@@ -10,8 +10,11 @@ repositories {
 }
 
 dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    testImplementation(
+            "org.junit.jupiter:junit-jupiter:5.7.0",
+            "org.hamcrest:hamcrest-core:2.2",
+            "org.hamcrest:hamcrest-library:2.2")
 }
 
 test {

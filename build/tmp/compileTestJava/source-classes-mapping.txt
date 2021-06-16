@@ -1,0 +1,2 @@
+com/github/ynfeng/refactor/change_function_declaration/CircleTest.java
+ com.github.ynfeng.refactor.change_function_declaration.CircleTest
