@@ -14,11 +14,6 @@ public class Book {
         reservations.add(customer);
     }
 
-    public static void main(String[] args) {
-        Book book = new Book();
-        book.addReservation(new Customer("a person"));
-    }
-
     public List<Customer> reservations() {
         return Collections.unmodifiableList(reservations);
     }
