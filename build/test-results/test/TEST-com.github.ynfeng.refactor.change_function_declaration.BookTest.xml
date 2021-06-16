@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.ynfeng.refactor.change_function_declaration.BookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-16T10:15:54" hostname="ynfeng-mac.local" time="0.012">
+  <properties/>
+  <testcase name="可以添加预定人()" classname="com.github.ynfeng.refactor.change_function_declaration.BookTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

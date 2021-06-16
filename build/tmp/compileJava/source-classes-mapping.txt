@@ -1,2 +1,6 @@
 com/github/ynfeng/refactor/change_function_declaration/Circle.java
  com.github.ynfeng.refactor.change_function_declaration.Circle
+com/github/ynfeng/refactor/change_function_declaration/Customer.java
+ com.github.ynfeng.refactor.change_function_declaration.Customer
+com/github/ynfeng/refactor/change_function_declaration/Book.java
+ com.github.ynfeng.refactor.change_function_declaration.Book
