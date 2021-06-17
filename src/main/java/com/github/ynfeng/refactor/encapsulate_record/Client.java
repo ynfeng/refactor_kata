@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Client {
+    /**
+     * 把它封装成类
+     */
     private static final Map<String, String> organization = new HashMap<>();
 
     static {
