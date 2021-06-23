@@ -2,6 +2,9 @@ package com.github.ynfeng.refactor.extract_function;
 
 import java.time.LocalDate;
 
+/**
+ * 提炼函数练习，无局部变量
+ */
 public class InvoicePrinter {
 
     public static void printOwing(Invoice invoice) {
